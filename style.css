@@ -5,6 +5,10 @@ html {
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background: ghostwhite;
+  /*padding-left: 20%;
+  padding-right: 20%;*/
+  max-width: 800px;
+  margin: auto;
 }
 img {
   border-radius: 25px;
@@ -20,11 +24,4 @@ h2 {
 .gifs {
   max-width: 100%;
     height: auto;
-}
-
-.content {
-  padding-left: 20%;
-  padding-right: 20%;
-  max-width: 800px;
-  margin: auto;
 }
