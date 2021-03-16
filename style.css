@@ -5,8 +5,8 @@ html {
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background: ghostwhite;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 1%;
+  padding-right: 1%;
   max-width: 800px;
   margin: auto;
 }
